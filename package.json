@@ -1,5 +1,5 @@
 {
-  "name": "factorial-calculator",
+  "name": "devops68-factorial-calculator",
   "version": "1.0.0",
   "description": "API to calculate factorial",
   "main": "index.js",
